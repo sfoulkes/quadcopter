@@ -1,19 +1,10 @@
 Todo:
-  - Connect the CE pin to a digital output on the microcontroller
-  - The LIN BUS stuff is confusing.  One the schematic the TX/RX on the
-    motor driver is connected to the TX/RX on the MCU.  Reading the docs
-    though (3.8/3.9) it seems though that this is correct.
-  - The FAULTn/TXE pin needs to be driven be a microcontroller digital
-    input/output pin.
-  - Break out the lin bus stuff
-  - Find a TX/RX pins on the MCU and hook them to DE2.
+  - Size shunt
+  - Add a fuse
+  - Size battery voltage sensor dividers
+  - UART level shifter
+  - Size LED current limiting resistor
+  - Capacitor orientation
+  - Diode orientation
 
-What do we need on the MCU?
-  - Digital output for the CE pin
-  - Digital input/output for the FAULTn/TXE pin
-  - Sender/receiver for the LIN bus
-  - CAN bus
 
-Thoughts:
-  - Need to look more into LIN bus.  Not sure if I need it.
-  

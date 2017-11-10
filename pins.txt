@@ -1,0 +1,23 @@
+Pins on the main MCU:
+ - x I2C, SDA SCL for two peripherals:
+    - MAG3110 Digital 3axis magnetometer
+    - LSM6DS3H 3d accelerometer and 3d gyroscope
+ - x Interrupt pins - PPS
+    - MAG3110
+    - LSM6DS3H
+ - x OSC1/OSC2 for crystal
+ - x Programming ports
+    - MCLR
+    - CPU_PGD
+    - CPU_PGC
+ - x ECAN - PPS
+ - x RS232 - PPS
+ - x Digital pin to LED - PPS
+ - x ADC for input voltage
+ - x ADC for input current
+
+
+
+
+Pins on the motor MCU:
+
