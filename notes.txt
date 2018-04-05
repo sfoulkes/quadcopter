@@ -1,10 +1,8 @@
 Todo:
-  - Size shunt
   - Add a fuse
-  - Size battery voltage sensor dividers
   - UART level shifter
   - Size LED current limiting resistor
-  - Capacitor orientation
   - Diode orientation
-
+  - ecan
+  - rest of motor control
 

@@ -1,4 +1,4 @@
-update=Sunday, July 30, 2017 'PMt' 03:14:45 PM
+update=Sunday, April 01, 2018 'PMt' 08:16:44 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=quadcopter_lib
+LibName31=switches
