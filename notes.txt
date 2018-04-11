@@ -1,6 +1,5 @@
 Todo:
   - Add a fuse
-  - UART level shifter
   - Size LED current limiting resistor
   - Diode orientation
   - ecan
