@@ -1,6 +1,5 @@
 Todo:
   - Add a fuse
-  - Size LED current limiting resistor
   - Diode orientation
   - ecan
   - rest of motor control
