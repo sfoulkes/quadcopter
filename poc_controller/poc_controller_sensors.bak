@@ -30,7 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:quadcopter_lib
 LIBS:switches
-LIBS:poc_controller-cache
+LIBS:_saved_poc_controller-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
