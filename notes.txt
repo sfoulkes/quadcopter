@@ -1,6 +1,11 @@
 Todo:
   - Add a fuse
   - Diode orientation
-  - ecan
   - rest of motor control
+  - Find missing footprints
+  - Fix cap values of MAX232.  They should be 1uF, not 0.1uF.
+  - Fix cap values for ECAN split pin.  Should it be 4.7uF or 7.0uF?
+  - Footprint and value for C16
+  - Footprints and part number for 1x6 CPU programmer headers
+
 
